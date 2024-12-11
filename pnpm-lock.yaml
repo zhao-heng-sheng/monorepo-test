@@ -23,7 +23,7 @@ importers:
 
   packages/pkg-b:
     devDependencies:
-      pkg-a:
+      pkg-a-zhaohssssss:
         specifier: workspace:^
         version: link:../pkg-a
 

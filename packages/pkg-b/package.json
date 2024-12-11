@@ -1,5 +1,5 @@
 {
-  "name": "pkg-b",
+  "name": "pkg-b-zhaohssssss",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "pkg-a": "workspace:^"
+    "pkg-a-zhaohssssss": "workspace:^"
   }
 }
